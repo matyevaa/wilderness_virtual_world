@@ -8,7 +8,7 @@ I set up an unordinary neon lighting to emphasize the unique atmosphere of my vi
 https://lnkd.in/erhV434C
 
 ## See the world map of Wilderness world
-![Wilderness Alien's Spacecraft Transparent](https://user-images.githubusercontent.com/59642740/180094887-6885e179-d9f4-42b4-9e14-b1ff8f4340fa.png)
-![Wilderness City (transparent)](https://user-images.githubusercontent.com/59642740/180094888-6244e94e-cb36-4769-a4ac-4c3dfda105aa.png)
-![Wilderness map transparent](https://user-images.githubusercontent.com/59642740/180094889-fa4fbe52-070e-4dc4-900f-46d12774f059.png)
-![Wilderness Metro Station and Train](https://user-images.githubusercontent.com/59642740/180094890-105e1201-1ae0-4a3b-bb1f-57589ebaa792.png)
+![Wilderness map](https://user-images.githubusercontent.com/59642740/180094928-7688a6ab-e028-4ec5-afbc-9e8f76c7b726.png)
+![Wilderness City](https://user-images.githubusercontent.com/59642740/180094938-2961dd7f-2156-46eb-8f09-d5d9151bfdaf.png)
+![Wilderness Metro Station and Train](https://user-images.githubusercontent.com/59642740/180094941-83436115-d757-4894-af6b-5d8cdda7300b.png)
+![Wilderness Alien's Spacecraft](https://user-images.githubusercontent.com/59642740/180094946-8dfc8aa3-db1f-4a9e-ba37-4201f2f5158f.png)
